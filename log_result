@@ -1,7 +1,3 @@
-GOROOT=/Users/rosfontes/sdk/go1.22rc1 #gosetup
-GOPATH=/Users/rosfontes/go #gosetup
-/Users/rosfontes/sdk/go1.22rc1/bin/go build -o /Users/rosfontes/Library/Caches/JetBrains/GoLand2024.1/tmp/GoLand/___go_build_Quake_log_file_src Quake_log_file/src #gosetup
-/Users/rosfontes/Library/Caches/JetBrains/GoLand2024.1/tmp/GoLand/___go_build_Quake_log_file_src
 Game-1:
   Total Kills: 0
   Players: 
